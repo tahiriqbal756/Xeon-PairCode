@@ -1,3 +1,3 @@
 {
-  "Name": "Xeon-PairCode"
+  "Name": "HACKER TF MD"
 }
